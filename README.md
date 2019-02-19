@@ -1,2 +1,1 @@
-# fat-dash.github.io
-Dashboard app for FPSAimTrainer
+Github pages for fat-dash
